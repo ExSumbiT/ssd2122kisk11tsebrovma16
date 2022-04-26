@@ -14,7 +14,7 @@ Task 1. Initiate GIT repository (BEF):
   a. details about repo;
   b. task details;
   c. student number.
-5. Create GIT TAG: <PROJECT NAME>_<VERSION>_WW<YYWWD>
+5. Create GIT TAG: \<PROJECT NAME\>_\<VERSION\>_WW\<YYWWD\>
   ∙ YY – current year;
   ∙ WW – work week;
   ∙ D – current day number of weak.
