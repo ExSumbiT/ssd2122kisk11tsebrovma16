@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>#C:/Users/MykolaTsebrov/PycharmProjects/pythonProject1/models.py</OriginalElement>
+  <nodes>
+    <node x="582.0" y="586.0">typing.Sized</node>
+    <node x="230.0" y="586.0">typing.Iterator</node>
+    <node x="0.5" y="137.5">models.Parser</node>
+    <node x="405.0" y="586.0">typing.Iterable</node>
+    <node x="0.0" y="280.5">models.SequenceIterator</node>
+    <node x="532.0" y="242.5">typing.Hashable</node>
+    <node x="0.0" y="586.0">models.Sequence</node>
+    <node x="251.0" y="0.0">object</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="models.SequenceIterator" target="object" relationship="REALIZATION">
+      <point x="100.5" y="-0.0" />
+      <point x="226.0" y="342.0" />
+      <point x="226.0" y="270.5" />
+      <point x="-115.5" y="-0.0" />
+    </edge>
+    <edge source="object" target="typing.Hashable" relationship="INTERFACE">
+      <point x="115.5" y="-0.0" />
+      <point x="-71.5" y="-0.0" />
+    </edge>
+    <edge source="models.Parser" target="object" relationship="REALIZATION">
+      <point x="100.0" y="-0.0" />
+      <point x="226.0" y="199.0" />
+      <point x="226.0" y="270.5" />
+      <point x="-115.5" y="-0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.6782810685249709" showDependencies="false" x="349.5" y="420.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+  </Categories>
+</Diagram>
+
