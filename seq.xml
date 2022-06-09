@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<seq>
+<person>
+    <name>john</name>
+    <age>20</age>
+</person>
+<person>
+    <name>john1</name>
+    <age>20</age>
+    <value>0</value>
+</person>
+</seq>
